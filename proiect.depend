@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1546613738 source:c:\users\acer\desktop\proiect\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"criptare.c"
+	"template.c"
+
+1546608301 c:\users\acer\desktop\proiect\criptare.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1546614498 c:\users\acer\desktop\proiect\template.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+
